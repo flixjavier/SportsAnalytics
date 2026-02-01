@@ -82,6 +82,7 @@ pd.concat(): This is like merge, but instead of putting everyhting to left or ri
 
 pd.sample(): is a function that allows to take randombly an amount of data from the table. 
 
+
 Questions that I will analize: 
 
 
@@ -93,7 +94,20 @@ Who are the top contenders based on Net Rating? (¿Quiénes son los principales 
 
 Which teams have the most efficient offense vs. the most suffocating defense? (¿Qué equipos tienen la ofensiva más eficiente vs. la defensa más asfixiante?)
 
-Is there a high correlation between Total Rebounds (TRB) and Win Percentage? (¿Existe una alta correlación entre rebotes totales y el porcentaje de victorias?)
+I need to create lines of reference. Using mean or average in points. 
+  During both seasons 24-25 and 25-26 the team that scores more points is Oklahoma Thunders, but also is the team that accepts less points. If we notice they appear in the right upper quadrant of the plot. That mean that they score a points and receive less points. So this result with the net rating, put them as the best team. 
+
+Is there a high correlation between Total Rebounds (TRB) and Win Percentage?
+
+https://www.scribbr.com/statistics/pearson-correlation-coefficient/#:~:text=The%20Pearson%20correlation%20coefficient%20is,relationship%20between%20two%20quantitative%20variables.
+
+  To know this we will use Pearson correlation. This correlation explains how good a variable explains another one. If the correlation value is close to 1, is a strong correlation, if the value is -1 their correlation is negative. 
+  We will use the net rating and the TBR to see the correlation between those variables and winning percentage. 
+  There is no correlation between the TBR and the net rating. This can be explaining because in the modern Basketball teams care more about shooting than rebounding. 
+
+
+
+
 
 2. Shooting & Scoring Efficiency (Eficiencia de Tiro)
 Aquí analizamos qué tan bien aprovechan sus oportunidades.
