@@ -89,6 +89,8 @@ Questions that I will analize:
 
 Who are the top contenders based on Net Rating? (¿Quiénes son los principales contendientes basados en el diferencial de puntos?)
 
+  During the seasion 24-25 and 25-26 the top contenders on net rating is Oklahoma city Thunder. 
+
 Which teams have the most efficient offense vs. the most suffocating defense? (¿Qué equipos tienen la ofensiva más eficiente vs. la defensa más asfixiante?)
 
 Is there a high correlation between Total Rebounds (TRB) and Win Percentage? (¿Existe una alta correlación entre rebotes totales y el porcentaje de victorias?)
