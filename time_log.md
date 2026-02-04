@@ -114,18 +114,20 @@ Aquí analizamos qué tan bien aprovechan sus oportunidades.
 
 Who leads the league in True Shooting Percentage (TS%)? (¿Quién lidera la liga en el porcentaje de tiro real?)
 
-Does a higher 3-Point Attempt Rate (3PAr) lead to more points scored per game? (¿Un mayor volumen de intentos de triple genera más puntos por partido?)
+We will calculate the true shooting percentage (TS%) This metric defines the leader in generating points during the games. 
 
-Which teams are the most disciplined (lowest Turnover Percentage)? (¿Qué equipos son los más disciplinados o tienen menos pérdidas de balón?)
+TS%: The team generate more points when they have posetion of the ball. If the TS is high the team does not waste opportunites. 
 
-3. Team vs. Opponent Analysis (Análisis Comparativo)
-Esta es la parte más rica de tus datos, pues tienes ambos lados de la moneda.
+To calculate this metric you can use the next formula: 
 
-Which teams force their opponents into the lowest Field Goal Percentage (FG%)? (¿Qué equipos fuerzan a sus oponentes al porcentaje de tiro más bajo?)
+TS% = PTS / 2*(FGA + 0.44 + FTA)
 
-How does a team's Offensive Rebound (ORB) performance affect their Opponent's Second Chance Points? (¿Cómo afecta el rebote ofensivo de un equipo a los puntos de segunda oportunidad del oponente?)
+PTS: total points.
 
-Year-over-Year Evolution: Which team showed the biggest improvement in Defensive Rating? (Evolución año tras año: ¿Qué equipo mostró la mayor mejora en su rating defensivo?)
+FGA: Field Goal Attempts.
 
+FTA: Free Throw Attempts.
 
+0.44: Is a constant factor that helps to stimate how many points were generation of plays "and-1" or fouls.
 
+Resource: https://www.breakthroughbasketball.com/stats/tsp_calc.html
