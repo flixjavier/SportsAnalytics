@@ -142,3 +142,5 @@ Dominance: Oklahoma City Thunder emerged as the top contender with the highest N
 Rebounding Impact: We found a 0.38 Pearson correlation between Total Rebounds and Net Rating, suggesting that dominating the rebounds in modern basketball is not as vital as few years ago. Now the teams has reduced the impact of rebounding].
 
 Scoring Efficiency: The league's efficiency leader in True Shooting Percentage (TS%) was Denver Nuggets, posting an elite mark of above average, But still this percentage is not that different from the top 20 teams.
+
+Time 20 hours at least. 
